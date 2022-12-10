@@ -1,3 +1,5 @@
+# Description
+This docker-compose allows the creation of a container with all the requierements needed to download a specific react-app and run it.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
